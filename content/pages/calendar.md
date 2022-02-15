@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 8b8e9d46-cd24-2b45-860f-ae380bd1db34
 ---
@@ -89,7 +91,7 @@ Reaction paper 3 and two photos from MFA field trip due two days before next cla
 {{< tdclose >}}
 {{< tdopen >}}
 **_Problematique du changement_ I:**  
-What is a "Scientific Revolution?" Paradigms Lost and Regained in science and in society; The interplay of meaning and power in human systems: Beliefs, values and practices associated with the rise of monopoly capitalism and the degradation of work since the 19th century.
+What is a "Scientific Revolution?" Paradigms Lost and Regained in science and in society; The interplay of meaning and power in human systems: Beliefs, values and practices associated with the rise of monopoly capitalism and the degradation of work since the 19{{< sup "th" >}} century.
 {{< tdclose >}}
 {{< tdopen >}}
 Reaction paper 4

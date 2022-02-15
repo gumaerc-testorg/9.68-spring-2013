@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/97e83da4fd468ec89d00dcfba52d6a64_MIT9_68S13_Lect12.pdf
+file: /media/courses/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/97e83da4fd468ec89d00dcfba52d6a64_MIT9_68S13_Lect12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 9.68 Lecture 12 Notes - Problematique du changement II
 uid: 97e83da4-fd46-8ec8-9d00-dcfba52d6a64
