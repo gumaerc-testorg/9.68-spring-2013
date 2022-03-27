@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e152b6cd-9020-399b-3442-a0f6e8b2e20f
 resourcetype: Document
 title: 9.68 Lecture 14 Notes - Final presentation and closure discussion
 uid: de3b3119-9058-bc5f-e53e-13d2a19c9ed3

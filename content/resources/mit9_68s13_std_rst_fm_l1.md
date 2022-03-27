@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e152b6cd-9020-399b-3442-a0f6e8b2e20f
 resourcetype: Document
 title: 9.68 Lecture 1 Notes - study group roster form
 uid: 72149226-af27-c2be-6e0f-789209150d6f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e152b6cd-9020-399b-3442-a0f6e8b2e20f
 resourcetype: Document
 title: 9.68 Lecture 1 Notes - Introduction and overview
 uid: 51f6dd84-a351-4014-c01b-b3647363a1c1

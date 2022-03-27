@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e152b6cd-9020-399b-3442-a0f6e8b2e20f
 resourcetype: Document
 title: '9.68 Lecture 10 Notes - Field trip: A walk around the block'
 uid: 9414c264-6380-13e4-8217-809da09884d1

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e152b6cd-9020-399b-3442-a0f6e8b2e20f
 resourcetype: Document
 title: 9.68 Lecture 3 Notes - MFA field trip
 uid: 357d7f9b-936a-317c-fd39-c2742dea7021

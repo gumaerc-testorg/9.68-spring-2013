@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e152b6cd-9020-399b-3442-a0f6e8b2e20f
 resourcetype: Document
 title: '9.68 Lecture 9 Notes - Neurosurgery: the science of violence and vice-versa'
 uid: 158fcb03-f2b7-8ede-f051-0f32d784ea40

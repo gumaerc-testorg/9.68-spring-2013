@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e152b6cd-9020-399b-3442-a0f6e8b2e20f
 resourcetype: Document
 title: 9.68 Lecture 1 Notes  - timesheets handout
 uid: fa86e9d7-6130-1e36-86d6-a0f20a2eab08
