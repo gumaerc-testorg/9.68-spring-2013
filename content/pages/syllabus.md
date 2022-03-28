@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: ed3f447f-93b2-f94f-d45f-a970e4baff4b
 ---
@@ -21,7 +22,7 @@ This course studies the relations of affect to cognition and behavior, feeling t
 Topics
 ------
 
-The syllabus contains, in a single document, a detailed description of the approach to 9.68 including information about the reading and writing assignments, the collaborative learning system, study groups and grading. [(PDF)]({{< baseurl >}}/resources/mit9_68s13_syllabus)
+The syllabus contains, in a single document, a detailed description of the approach to 9.68 including information about the reading and writing assignments, the collaborative learning system, study groups and grading. {{< resource_link df7f38f4-c2ae-12e0-e118-04c28e84b928 "(PDF)" >}}
 
 *   [Introduction and Overview](#Syllabus_1)
 *   [Conduct and Administration of Subject](#Syllabus_28)

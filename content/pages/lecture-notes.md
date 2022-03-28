@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: e152b6cd-9020-399b-3442-a0f6e8b2e20f
 ---
@@ -33,21 +34,21 @@ Introduction and Overview
 {{< tdopen >}}
 
 
-[Lecture notes 1 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect1)
+{{< resource_link 51f6dd84-a351-4014-c01b-b3647363a1c1 "Lecture notes 1 (PDF)" >}}
 
-[Syllabus]({{< baseurl >}}/pages/syllabus)
+{{< resource_link ed3f447f-93b2-f94f-d45f-a970e4baff4b "Syllabus" >}}
 
-[Study group roster (PDF)]({{< baseurl >}}/resources/mit9_68s13_std_rst_fm_l1)
+{{< resource_link 72149226-af27-c2be-6e0f-789209150d6f "Study group roster (PDF)" >}}
 
-[Working groups (PDF)]({{< baseurl >}}/resources/mit9_68s13_wrkg_grp_l1)
+{{< resource_link 483fc0e5-b20d-565e-ac5a-d85e28ece3a5 "Working groups (PDF)" >}}
 
-[Human systems: Aspects and levels of organization and development (PDF)]({{< baseurl >}}/resources/mit9_68s13_dvlpt_schms_l1)
+{{< resource_link 235170e6-27c7-59c9-0cda-971c70b8fa8b "Human systems: Aspects and levels of organization and development (PDF)" >}}
 
-[Preliminary information form and benchmark questionnaire (PDF)]({{< baseurl >}}/resources/mit9_68s13_inf_fm_bcmk_l1)
+{{< resource_link 9f5f973c-238b-a7bb-e8c5-acd807757178 "Preliminary information form and benchmark questionnaire (PDF)" >}}
 
-[Timesheet (PDF)]({{< baseurl >}}/resources/mit9_68s13_timesheet_l1)
+{{< resource_link fa86e9d7-6130-1e36-86d6-a0f20a2eab08 "Timesheet (PDF)" >}}
 
-[Affect / effect (PDF)]({{< baseurl >}}/resources/mit9_68s13_affct-effct_l1)
+{{< resource_link 4dc3e34b-5a3f-b254-ff41-8c212e49540b "Affect / effect (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -61,7 +62,7 @@ Introduction and Overview
 Human Systems
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes 2 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect2)
+{{< resource_link ad439c94-6f61-65f0-2346-c8824b435337 "Lecture notes 2 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,13 +76,13 @@ MFA Field Trip
 {{< tdopen >}}
 
 
-[Lecture notes 3 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect3)
+{{< resource_link 357d7f9b-936a-317c-fd39-c2742dea7021 "Lecture notes 3 (PDF)" >}}
 
-[Timescales (PDF)]({{< baseurl >}}/resources/mit9_68s13_tmscls_l3)
+{{< resource_link dbf5040b-08d8-1912-fbb4-2aac00b00a82 "Timescales (PDF)" >}}
 
-[MFA field trip guide and timeline (PDF)]({{< baseurl >}}/resources/mit9_68s13_mfa_gde_tml_l3)
+{{< resource_link ce22f919-bda9-5908-4126-171d6987a5d0 "MFA field trip guide and timeline (PDF)" >}}
 
-[MFA field trip reaction form (PDF)]({{< baseurl >}}/resources/mit9_68s13_mfa_rtn_fm_l3)
+{{< resource_link 1a82d4c6-101c-616e-ca45-b6657081817c "MFA field trip reaction form (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -95,7 +96,7 @@ MFA Field Trip
 Quality in Arts, Technology and Life
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes 4 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect4)
+{{< resource_link 93d677a4-17d4-ed8e-ac77-a3440f49f035 "Lecture notes 4 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +108,7 @@ Quality in Arts, Technology and Life
 _Problematique du changement_ I
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes 5 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect5)
+{{< resource_link 3849f954-8b05-7450-fe16-a0902ab3252c "Lecture notes 5 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +120,7 @@ _Problematique du changement_ I
 What is Quality in (my MIT) Education?
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes 6 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect6)
+{{< resource_link d958a1d9-ccb8-e5c4-0147-93123d46ae99 "Lecture notes 6 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +132,7 @@ What is Quality in (my MIT) Education?
 Wrapping Up Phase One
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes 7 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect7)
+{{< resource_link 0e378ee8-d398-3697-19fc-e0f788138841 "Lecture notes 7 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +144,7 @@ Wrapping Up Phase One
 The Neuropsychology of Affect
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes 8 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect8)
+{{< resource_link 969f78e0-6ba7-ee2a-1df9-da0925980a01 "Lecture notes 8 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,11 +158,11 @@ Neurosurgery: The Science of Violence and Vice-Versa
 {{< tdopen >}}
 
 
-[Lecture notes 9 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect9)
+{{< resource_link 158fcb03-f2b7-8ede-f051-0f32d784ea40 "Lecture notes 9 (PDF)" >}}
 
-[Neurobiology (PDF)]({{< baseurl >}}/resources/mit9_68s13_ner_hand_l9)
+{{< resource_link f01336ec-63da-42ee-d054-9865485d3e37 "Neurobiology (PDF)" >}}
 
-[Kille case chronology (PDF)]({{< baseurl >}}/resources/mit9_68s13_kll_cs_crnlg_l9)
+{{< resource_link 62f2c6aa-2cf6-bfe7-044a-d8ef9cdb9a77 "Kille case chronology (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -177,9 +178,9 @@ Field Trip: A Walk Around the Block
 {{< tdopen >}}
 
 
-[Lecture notes 10 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect10)
+{{< resource_link 9414c264-6380-13e4-8217-809da09884d1 "Lecture notes 10 (PDF)" >}}
 
-[Walk around the block (PDF)]({{< baseurl >}}/resources/mit9_68s13_wk_ad_blck_l10)
+{{< resource_link 1497a8fe-d2cb-9704-bd5d-db946d706811 "Walk around the block (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -193,7 +194,7 @@ Field Trip: A Walk Around the Block
 Fathering the Unthinkable
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes 11 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect11)
+{{< resource_link 1ceae9fe-76a8-0d08-19fe-a16a0cc3d9e6 "Lecture notes 11 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +206,7 @@ Fathering the Unthinkable
 _Problematique du changement_ II
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes 12 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect12)
+{{< resource_link 97e83da4-fd46-8ec8-9d00-dcfba52d6a64 "Lecture notes 12 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +230,7 @@ Lecture notes are not available for this session
 Final Presentations and Closure Discussion
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes 14 (PDF)]({{< baseurl >}}/resources/mit9_68s13_lect14)
+{{< resource_link de3b3119-9058-bc5f-e53e-13d2a19c9ed3 "Lecture notes 14 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

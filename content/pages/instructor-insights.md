@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: cae4bf72-bf9c-3ce1-41c1-e3106a08d42c
 ---
@@ -26,7 +27,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_9.00 Introduction to Psychology_](/courses/9-00sc-introduction-to-psychology-fall-2011/)
+[_9.00 Introduction to Psychology_](/courses/9-00sc-introduction-to-psychology-fall-2011)
 
 ### Requirements Satisfied
 
@@ -41,7 +42,7 @@ Professor Chorover is an emeritus professor and is no longer teaching this cours
 Instructor Insights
 -------------------
 
-Professor Chorover described various aspects of how he taught _9.68 Affect: Neurobiological, Psychological, and Sociocultural Counterparts of “Feelings”_ extensively in the [course syllabus]({{< baseurl >}}/pages/syllabus).
+Professor Chorover described various aspects of how he taught _9.68 Affect: Neurobiological, Psychological, and Sociocultural Counterparts of “Feelings”_ extensively in the {{< resource_link ed3f447f-93b2-f94f-d45f-a970e4baff4b "course syllabus" >}}.
 
 The following sections particularly illustrated Prof. Chorover's approach:
 
@@ -87,5 +88,5 @@ Study group meetings
 Out of class
 ------------
 
-*   Complete [reading and viewing assignments]({{< baseurl >}}/pages/readings).
-*   Complete weekly [writing assignments]({{< baseurl >}}/pages/assignments).
+*   Complete {{< resource_link b822ac29-3d43-9f0e-700d-673ce5346d74 "reading and viewing assignments" >}}.
+*   Complete weekly {{< resource_link 6a978759-093a-e843-9a75-0a3ac252f0d6 "writing assignments" >}}.
