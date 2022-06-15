@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description, an introduction
+  and overview, and information on meeting times, topics, conduct and administration
+  of the subject, and some issues to consider at your first study group meeting.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: ed3f447f-93b2-f94f-d45f-a970e4baff4b
 ---
@@ -17,12 +19,12 @@ Course Description
 
 This course studies the relations of affect to cognition and behavior, feeling to thinking and acting, and values to beliefs and practices. These connections will be considered at the psychological level of organization and in terms of their neurobiological and sociocultural counterparts. In addition to weekly class sessions, students participate in small study groups that meet for two hours per week.
 
-![This table depicts human systems in terms of levels and aspects of organization.]({{< resource_file 65f636a3-810c-983d-6f02-680395c81a52 >}})
+{{< resource 65f636a3-810c-983d-6f02-680395c81a52 >}}
 
 Topics
 ------
 
-The syllabus contains, in a single document, a detailed description of the approach to 9.68 including information about the reading and writing assignments, the collaborative learning system, study groups and grading. {{< resource_link df7f38f4-c2ae-12e0-e118-04c28e84b928 "(PDF)" >}}
+The syllabus contains, in a single document, a detailed description of the approach to 9.68 including information about the reading and writing assignments, the collaborative learning system, study groups and grading. {{% resource_link df7f38f4-c2ae-12e0-e118-04c28e84b928 "(PDF)" %}}
 
 *   [Introduction and Overview](#Syllabus_1)
 *   [Conduct and Administration of Subject](#Syllabus_28)
