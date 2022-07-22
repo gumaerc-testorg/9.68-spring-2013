@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: This table depicts human systems in terms of levels and aspects of organization.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
