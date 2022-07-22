@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with the readings
+  and viewings for each lecture session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b822ac29-3d43-9f0e-700d-673ce5346d74
 ---
@@ -54,7 +59,7 @@ Human Systems
 {{< tdopen >}}
 
 
-2.1 [Syllabus]({{< baseurl >}}/pages/syllabus)
+2.1 {{% resource_link ed3f447f-93b2-f94f-d45f-a970e4baff4b "Syllabus" %}}
 
 2.2 Adler, Mortimer J., and Charles Van Doren. _How to Read a Book: The Classic Guide to Intelligent Reading_. Touchstone, 1972. ISBN: 9780671212094.
 
