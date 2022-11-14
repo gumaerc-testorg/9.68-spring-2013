@@ -48,8 +48,9 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "47e324a2-9539-47be-8fc6-7304e8244183",
+  "site_uid": "cf7819e4-662c-4d79-a5da-0931ba9fc6d2",
   "title": "Course Metadata"
 }
