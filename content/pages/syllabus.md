@@ -3,79 +3,75 @@ content_type: page
 description: This syllabus section provides the course description, an introduction
   and overview, and information on meeting times, topics, conduct and administration
   of the subject, and some issues to consider at your first study group meeting.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: ed3f447f-93b2-f94f-d45f-a970e4baff4b
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 1 session / week; 2 hours / session
 
-Course Description
-------------------
+## Course Description
 
 This course studies the relations of affect to cognition and behavior, feeling to thinking and acting, and values to beliefs and practices. These connections will be considered at the psychological level of organization and in terms of their neurobiological and sociocultural counterparts. In addition to weekly class sessions, students participate in small study groups that meet for two hours per week.
 
-{{< resource 65f636a3-810c-983d-6f02-680395c81a52 >}}
+{{< resource uuid="65f636a3-810c-983d-6f02-680395c81a52" >}}
 
-Topics
-------
+## Topics
 
-The syllabus contains, in a single document, a detailed description of the approach to 9.68 including information about the reading and writing assignments, the collaborative learning system, study groups and grading. {{% resource_link df7f38f4-c2ae-12e0-e118-04c28e84b928 "(PDF)" %}}
+The syllabus contains, in a single document, a detailed description of the approach to 9.68 including information about the reading and writing assignments, the collaborative learning system, study groups and grading. {{% resource_link "df7f38f4-c2ae-12e0-e118-04c28e84b928" "(PDF)" %}}
 
-*   [Introduction and Overview](#Syllabus_1)
-*   [Conduct and Administration of Subject](#Syllabus_28)
-*   [Students: Caveat Emptor](#Syllabus_3)
-*   [Final grades](#Syllabus_4)
-*   [Instructional subsystem](#Syllabus_5)
-*   [Communication](#Syllabus_6)
-*   [Being there: Attendance and participation](#Syllabus_7)
-*   [Consider your attitudes](#Syllabus_8)
-*   [Study groups](#Syllabus_9)
-*   [First group meeting](#Syllabus_10)
-*   [Developmental trajectories](#Syllabus_11)
-*   [Formative evaluation](#Syllabus_12)
-*   [Workload](#Syllabus_13)
-*   [The MFA field trip](#Syllabus_14)
-*   [Assignments](#Syllabus_15)
-*   [Required text](#Syllabus_16)
-*   [Additional Readings](#Syllabus_17)
-*   [Viewing films](#Syllabus_18)
-*   [Journal-keeping](#Syllabus_30)
-*   [Keeping a timesheet](#Syllabus_19)
-*   [Writing reaction papers](#Syllabus_20)
-*   [Plagiarism](#Syllabus_21)
-*   [Paper chase format](#Syllabus_22)
-*   [What is collaborative learning?](#Syllabus_23)
-*   [Planning/producing end-of-term project or paper](#Syllabus_24)
-*   [Interim and final grades](#Syllabus_25)
-*   [A final note about the 9.68 learning process](#Syllabus_26)
+- [Introduction and Overview](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_1)
+- [Conduct and Administration of Subject](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_28)
+- [Students: Caveat Emptor](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_3)
+- [Final grades](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_4)
+- [Instructional subsystem](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_5)
+- [Communication](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_6)
+- [Being there: Attendance and participation](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_7)
+- [Consider your attitudes](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_8)
+- [Study groups](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_9)
+- [First group meeting](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_10)
+- [Developmental trajectories](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_11)
+- [Formative evaluation](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_12)
+- [Workload](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_13)
+- [The MFA field trip](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_14)
+- [Assignments](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_15)
+- [Required text](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_16)
+- [Additional Readings](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_17)
+- [Viewing films](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_18)
+- [Journal-keeping](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_30)
+- [Keeping a timesheet](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_19)
+- [Writing reaction papers](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_20)
+- [Plagiarism](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_21)
+- [Paper chase format](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_22)
+- [What is collaborative learning?](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_23)
+- [Planning/producing end-of-term project or paper](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_24)
+- [Interim and final grades](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_25)
+- [A final note about the 9.68 learning process](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_26)
 
-{{< anchor "Syllabus_1" >}}{{< /anchor >}}Introduction and Overview
--------------------------------------------------------------------
+## {{< anchor "Syllabus_1" >}}{{< /anchor >}}Introduction and Overview
 
 "Everything that is said, is said by someone." (H. Maturana)
 
 We Exchange Some Preliminary Information
 
-"So (here we are – in the middle way – having spent many years) Trying to learn to use words, and every attempt  
-Is a wholly new start, and a different kind of failure  
-Because one has only learnt to get the better of words  
-For the thing one no longer has to say, or the way in which  
-One is no longer disposed to say it. And so each venture  
-Is a new beginning, a raid on the inarticulate  
-With shabby equipment always deteriorating  
-In the general mess of imprecision of feeling,  
-Undisciplined squads of emotion. And what there is to conquer  
-By strength and submission, has already been discovered  
-Once or twice, or several times, by those whom one cannot hope  
-To emulate – but there is no competition –  
-There is only the fight to recover what has been lost  
-And found and lost again and again; and now, under conditions  
-That seem unpropitious. But perhaps neither gain nor loss.  
+"So (here we are – in the middle way – having spent many years) Trying to learn to use words, and every attempt   
+Is a wholly new start, and a different kind of failure   
+Because one has only learnt to get the better of words   
+For the thing one no longer has to say, or the way in which   
+One is no longer disposed to say it. And so each venture   
+Is a new beginning, a raid on the inarticulate   
+With shabby equipment always deteriorating   
+In the general mess of imprecision of feeling,   
+Undisciplined squads of emotion. And what there is to conquer   
+By strength and submission, has already been discovered   
+Once or twice, or several times, by those whom one cannot hope   
+To emulate – but there is no competition –   
+There is only the fight to recover what has been lost   
+And found and lost again and again; and now, under conditions   
+That seem unpropitious. But perhaps neither gain nor loss.   
 For us, there is only the trying. The rest is not our business.
 
 Home is where one starts from." (T.S. Eliot, "Four Quartets")
@@ -90,14 +86,13 @@ Note also the widespread use among us of "seeing" as a metaphor for knowing. Wha
 
 Further to the point: the particular attitudes (cognitively and affectively defined thoughts and feelings, mental sets) that each of us brings with us into this room on this first evening of another "new" semester are bound to influence our perceptions (e.g. of what is actually going on here). And, of course, our perceptions of ourselves in this situation condition and constrain our behavior in response to stimulation arising from the situation—and so on and so forth, in recurrent cycles of mutual and reciprocal causality.
 
-In the late 1890's, in a notable passage in his justly famous _"Talks to Teachers"_ my favorite psychologist, William James, announces the advent of some new and powerful, down-to-earth, methods of student-centered, hands-on, problem posing, concrete object learning/teaching.
+In the late 1890's, in a notable passage in his justly famous *"Talks to Teachers"* my favorite psychologist, William James, announces the advent of some new and powerful, down-to-earth, methods of student-centered, hands-on, problem posing, concrete object learning/teaching.
 
 "Verbal reactions, useful as they are, are insufficient. The words may be right, but the conceptions corresponding to them are often direfully wrong. In a modern school, therefore, they quite properly form only a small part of what the pupil is required to do. He must keep notebooks, make drawings, plans, and maps, take measurements, enter the laboratory and perform experiments, consult authorities, keep journals and write essays. He must do in his fashion what is often laughed at by outsiders when it appears in prospectuses under the title of 'original work,' but what is really the only possible training for the doing of original work thereafter. The most colossal improvement which recent years have seen in secondary education lies in the introduction of manual training; not because it gives us a people more handy and practical for domestic life and better skilled in trades, but also and even more so because it gives us citizens with an entirely different intellectual fibre.
 
-"Laboratory work and shop work engender a habit of observation, a knowledge of the difference between accuracy and vagueness, and an insight into nature's complexity and into the inadequacy of all abstract verbal accounts of real phenomena, which once wrought into the mind, remain there as lifelong possessions. They confer precision; because, if you are _doing_ a thing, you must do it definitely right or definitely wrong. They give honesty; for, when you express yourself by making things, and not by using words, it becomes impossible to dissimulate your vagueness or ignorance by ambiguity. They beget a habit of self-reliance; they keep the interest and attention always cheerfully engaged, and reduce the teacher's disciplinary functions to a minimum."
+"Laboratory work and shop work engender a habit of observation, a knowledge of the difference between accuracy and vagueness, and an insight into nature's complexity and into the inadequacy of all abstract verbal accounts of real phenomena, which once wrought into the mind, remain there as lifelong possessions. They confer precision; because, if you are *doing* a thing, you must do it definitely right or definitely wrong. They give honesty; for, when you express yourself by making things, and not by using words, it becomes impossible to dissimulate your vagueness or ignorance by ambiguity. They beget a habit of self-reliance; they keep the interest and attention always cheerfully engaged, and reduce the teacher's disciplinary functions to a minimum."
 
-{{< anchor "Syllabus_28" >}}{{< /anchor >}}Conduct and Administration of Subject
---------------------------------------------------------------------------------
+## {{< anchor "Syllabus_28" >}}{{< /anchor >}}Conduct and Administration of Subject
 
 ### {{< anchor "Syllabus_3" >}}{{< /anchor >}}Students: Caveat Emptor
 
@@ -171,26 +166,26 @@ Of course, no two human systems (no two people, families, groups, 9.68 classes, 
 
 Distribute:
 
-*   Study Group Roster Forms
-*   Timesheets
-*   "Working Groups"
+- Study Group Roster Forms
+- Timesheets
+- "Working Groups"
 
 **Some Issues To Consider At Your First Study Group Meeting:**
 
-1.  Did everyone make it on time and without incident?
-2.  Has everyone completed the first assignment?
-3.  Evaluate the suitability of your surroundings. Is the "social architecture" of the situation appropriate? Is the place and time conducive to conducting a "study group" meeting? If not, is there a better alternative available?
-4.  Try to get comfortable; say "hello!" politely and "how are you?" This (by the luck of the draw) is your study group and will remain so for the rest of the term. Prepare to listen to each other. Be open to possibly having to revise/update assumptions in accordance with new information;
-5.  How do you want – hope and expect – the class/study group to develop?
-6.  How educationally valuable to you will it be?
-7.  As you introduce yourselves, think about the terms in which you and your peers "normally" define/identify yourselves in MIT undergraduate academic contexts such as this one?
-8.  Try to identify some of the explicit (members of the same organization, roommates, etc.) and implicit loyalties (both "visible" and "invisible") in the study group and the class as a whole
-9.  Compare/contrast your "first impressions" of this class.
-10.  We are all constantly, invariably, and inescapably engaged in endeavoring to manage the impressions that we make on other people. How are these commonplace efforts at "impression management" influencing your interactions with each other.
-11.  What is your view of the other study groups?
-12.  Why is the class being defined as "collaborative" and being thus organized into "study groups"?
-13.  Are these arrangements intended to be cooperative or competitive?
-14.  Are there any "serious" students in this group? In the class? What do we mean by "serious" in this context?
+1. Did everyone make it on time and without incident?
+2. Has everyone completed the first assignment?
+3. Evaluate the suitability of your surroundings. Is the "social architecture" of the situation appropriate? Is the place and time conducive to conducting a "study group" meeting? If not, is there a better alternative available?
+4. Try to get comfortable; say "hello!" politely and "how are you?" This (by the luck of the draw) is your study group and will remain so for the rest of the term. Prepare to listen to each other. Be open to possibly having to revise/update assumptions in accordance with new information;
+5. How do you want – hope and expect – the class/study group to develop?
+6. How educationally valuable to you will it be?
+7. As you introduce yourselves, think about the terms in which you and your peers "normally" define/identify yourselves in MIT undergraduate academic contexts such as this one?
+8. Try to identify some of the explicit (members of the same organization, roommates, etc.) and implicit loyalties (both "visible" and "invisible") in the study group and the class as a whole
+9. Compare/contrast your "first impressions" of this class.
+10. We are all constantly, invariably, and inescapably engaged in endeavoring to manage the impressions that we make on other people. How are these commonplace efforts at "impression management" influencing your interactions with each other.
+11. What is your view of the other study groups?
+12. Why is the class being defined as "collaborative" and being thus organized into "study groups"?
+13. Are these arrangements intended to be cooperative or competitive?
+14. Are there any "serious" students in this group? In the class? What do we mean by "serious" in this context?
 
 ### {{< anchor "Syllabus_11" >}}{{< /anchor >}}Developmental Trajectories
 
@@ -200,7 +195,7 @@ By a hypothesis that you are invited to critically evaluate, there are discernib
 
 ### {{< anchor "Syllabus_12" >}}{{< /anchor >}}Formative Evaluation
 
-How are you doing in this class? (No, it is not too early to be asking this question.) Reflect on your attitude; on the quality and amount of your participation; do so frequently and recurrently throughout the term. The concept of _formative evaluation_ is applicable to any goal-oriented activity (e.g. a design process). What is going well? What is not so good and needs improvement?
+How are you doing in this class? (No, it is not too early to be asking this question.) Reflect on your attitude; on the quality and amount of your participation; do so frequently and recurrently throughout the term. The concept of *formative evaluation* is applicable to any goal-oriented activity (e.g. a design process). What is going well? What is not so good and needs improvement?
 
 We expect you to participate fully in all stages and aspects of the observation/evaluation process. The Timesheet (see below) is intended to provide a first step in the process of monitoring the amount of time and the quality of the effort per week that you put into making the collaborative learning system work effectively.
 
@@ -208,13 +203,13 @@ We expect you to participate fully in all stages and aspects of the observation/
 
 Based on your knowledge of the "MIT system" and applicable nomenclature, please:
 
-1.  "unpack" the foregoing subject description
-2.  reflect, insofar as you can at this point, on your own inwardly experienced thoughts and feelings about the present situation. For example: with which particular constellation of attitudes have you come? How might your present attitudes be related to your present and future behavior in this class? Might your attitudes be expected to influence (for example) the "seriousness" with which you are ready, willing and able to approach the subject before us?
-3.  share with others your understanding of the stipulated "workload". Try to make explicit your expectations (hopes, fears) regarding the average amount of time per week to be spent working on it and say something about the general quality of individual and collective effort that you expect yourself and others to be putting into it during the next few months.
+1. "unpack" the foregoing subject description
+2. reflect, insofar as you can at this point, on your own inwardly experienced thoughts and feelings about the present situation. For example: with which particular constellation of attitudes have you come? How might your present attitudes be related to your present and future behavior in this class? Might your attitudes be expected to influence (for example) the "seriousness" with which you are ready, willing and able to approach the subject before us?
+3. share with others your understanding of the stipulated "workload". Try to make explicit your expectations (hopes, fears) regarding the average amount of time per week to be spent working on it and say something about the general quality of individual and collective effort that you expect yourself and others to be putting into it during the next few months.
 
 Over the years 9.68 has evolved into a 12 unit elective subject requiring of participants a nominal average of 8 hours of solo weekly time and effort completing stated reading, viewing, and writing assignments (e.g. "reaction papers" and other exercises). With a few exceptions we all will meet at this time and place weekly as a class, and everyone meets separately with a study group whose membership has been randomly determined for two hours weekly at a time and place tba and whose main task it is to serve its members and the class as a whole by making appropriate, and constructive contributions to the overall organization and development of 9.68\_13. Our central aim is to help in shaping the class into a collaborative learning system of the highest possible educational quality and of the greatest possible personal and social value to those who comprise it.
 
-In such a class, the learning experience is no mere spectator sport. Active participation by all in shaping the organization and development of the collaborative learning system is a basic focus of both the formation and evaluation of the collaborative learning process that serves as the core element of our _modus operandi._
+In such a class, the learning experience is no mere spectator sport. Active participation by all in shaping the organization and development of the collaborative learning system is a basic focus of both the formation and evaluation of the collaborative learning process that serves as the core element of our *modus operandi.*
 
 Because of the vagaries of the MIT Academic Calendar, the actual schedule of our weekly class meetings is a bit irregular. The workload has been adjusted accordingly but is still not meant to be light weight. The catalog description sets out the terms of the contract implicit in the fact of our participation here. In order for the class to succeed in its objectives everyone involved needs to put in a good faith modicum of time and effort. To be more precise, the class as a whole will succeed if everyone puts into it, on the average, 12 hours per week of high quality time and effort. Let us reiterate the point for emphasis: experience teaches us that success in creating a workable collaborative learning system depends on the readiness, willingness and ability of everyone involved to make—and to expect everyone else to make—a genuine good-faith effort to devote the stipulated modicum of time and effort to the process.
 
@@ -228,7 +223,7 @@ The completion of weekly assignments in a systematic, timely and conscientious f
 
 ### {{< anchor "Syllabus_16" >}}{{< /anchor >}}Required Text
 
-We will begin as 9.68 classes have been doing for more than two decades: with several weeks of reading (perhaps many of us re-reading) and discussing Robert M. Pirsig's _Zen and the Art of Motorcycle Maintenance_ (William Morrow and Co., 1974). Notably, _ZAAMM_ is a book whose subtitle identifies it as "_An Inquiry into Values"._ How do "values" relate to "affect"?
+We will begin as 9.68 classes have been doing for more than two decades: with several weeks of reading (perhaps many of us re-reading) and discussing Robert M. Pirsig's *Zen and the Art of Motorcycle Maintenance* (William Morrow and Co., 1974). Notably, *ZAAMM* is a book whose subtitle identifies it as "*An Inquiry into Values".* How do "values" relate to "affect"?
 
 You should acquire your own personal copy of this text to have and to hold (and to mark up as need be). There is a cheaper, more compact Bantam or Pocket Book edition, but you are advised to get the larger format paperback edition that the Tech Coop appears to have in sufficient numbers.
 
@@ -284,7 +279,7 @@ Except for the final term paper (see below) no letter or number grades will be a
 
 ### {{< anchor "Syllabus_23" >}}{{< /anchor >}}What is Collaborative Learning?
 
-We define the groups that we have randomly formed (and their individual members) as 9.68 subsystems. This leads into a discussion of the "systems approach" to be taken. At the outset, a distinction needs to be drawn between cooperative and collaborative learning. See, e.g. [http://archive.wceruw.org/cl1/CL/question/TQ13.htm](http://archive.wceruw.org/cl1/CL/question/TQ13.htm)
+We define the groups that we have randomly formed (and their individual members) as 9.68 subsystems. This leads into a discussion of the "systems approach" to be taken. At the outset, a distinction needs to be drawn between cooperative and collaborative learning. See, e.g. [Tough Questions: "What's the difference between collaborative and cooperative learning?"](https://web.archive.org/web/20160613211703/http://archive.wceruw.org/cl1/CL/question/TQ13.htm)
 
 We aim to create a classroom environment conducive to meaningful collaborative learning. We hope and expect that each and every one of you will find it both fun and informative—a quality learning experience.
 
